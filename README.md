@@ -1,9 +1,9 @@
-<h1 align="left">Oi 👋, eu sou MarcosLp</h1>
-<h3 align="left">Sou desenvolvedor fullstack</h3>
+<h1 align="left">Olá prazer ,  Marcos Murilo 💪 </h1>
+<h3 align="left">Sou desenvolvedor fullstack 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoslp010&label=Profile%20views&color=0e75b6&style=flat" alt="marcoslp010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcoslp010" alt="marcoslp010" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=marcoslp010&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="marcoslp010" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando em **Progeo Engenharia**
 
@@ -43,6 +43,3 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoslp010&show_icons=true&locale=en" alt="marcoslp010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcoslp010&" alt="marcoslp010" /></p>
