@@ -1,18 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
 <h1 align="center">Olá prazer , Marcos Murilo 💪</h1>
-
-###
-
-<div align="center">
-  <a href="https://dev.to/marcoslp010" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
 
 ###
 
@@ -20,7 +6,7 @@
 
 ###
 
-<p align="left">Eu sou do  brasil<br><br>-🔭Estou trabalhando para a Progeo<br>- 📚 Ando estudando Docker , Swoole , Nginx , e outras tecnologias<br>- ⚡No meu tempo livre dou total atenção para minha familia.</p>
+<p align="left">Eu sou do  brasil<br><br>- 🧑‍💻 atualmente estou trabalhando como dev fullstack<br><br>- 📝 Estou sempre buscando novas tecnologias , atualmente estou bem interessado na área de DevOps<br><br>- ⏳ No meu tempo livre sempre estou testando coisas novas</p>
 
 ###
 
@@ -50,6 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
